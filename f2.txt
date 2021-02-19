@@ -1,0 +1,6 @@
+f2 first line.
+   f2 second line.
+      f2 third line.
+         f2 0third line
+I want to be merged into master
+One  more  correct
